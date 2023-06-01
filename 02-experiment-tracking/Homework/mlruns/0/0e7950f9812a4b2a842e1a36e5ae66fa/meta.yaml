@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nic/Desktop/DT-Zoom-Camp-Notes/mlops-zoomcamp/02-experiment-tracking/Homework/mlruns/0/0e7950f9812a4b2a842e1a36e5ae66fa/artifacts
+end_time: 1685640799421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e7950f9812a4b2a842e1a36e5ae66fa
+run_name: selective-loon-230
+run_uuid: 0e7950f9812a4b2a842e1a36e5ae66fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685640799416
+status: 4
+tags: []
+user_id: nic
